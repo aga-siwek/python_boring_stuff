@@ -23,4 +23,4 @@ if __name__ == '__main__':
     except pyip.TimeoutException:
         print("Time out")
     except pyip.RetryLimitException:
-        print("Out of fires")
+        print("Out of tires")

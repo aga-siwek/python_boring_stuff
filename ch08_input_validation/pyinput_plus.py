@@ -13,7 +13,7 @@ import pyinputplus as pyip
 
 # response = pyip.inputEmail("write your e-mail: ")
 
-responde = pyip.inputChoice(["it not for me", "i'm in", "no no No"])
+responde = pyip.inputChoice(["it not for me", "i'm in", "no no No"]) #choice one answer
 
 
 
